@@ -7,10 +7,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
@@ -20,8 +17,8 @@ This project is a clone of the Thomas Cook website, aiming to replicate its core
 
 - **Project Status**: Active
 - **Team**:
- *Backend* - [Prakarsh Kaushi], [Amandeep Srivastava], [Pratham Maheshwari], [Sejal Gupta]
- *Frontend* - {Suryanshu Verma], [Tansishka Sati], [Nikhil Srivastava]
+    -*Backend* - [Prakarsh Kaushi], [Amandeep Srivastava], [Pratham Maheshwari], [Sejal Gupta]
+    -*Frontend* - {Suryanshu Verma], [Tansishka Sati], [Nikhil Srivastava]
 - **Date**: [15th September 2023]
 
 ## Features
