@@ -1,0 +1,39 @@
+.carousel-inner .carousel-item {
+    transition: -webkit-transform 2s ease;
+    transition: transform 2s ease;
+    transition: transform 2s ease, -webkit-transform 2s ease;
+  }
+  @media only screen and (max-width: 750px) {
+    .carousel-item {
+      height: 55vh;
+    }
+    .carousel-img {
+      object-fit: fill;
+    }
+    #carouselExampleRide {
+      margin-top: 100px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .carousel-item {
+      height: 40vh;
+    }
+    .carousel-img {
+      object-fit: fill;
+    }
+    #carouselExampleRide {
+      margin-top: 100px;
+    }
+  }
+  @media only screen and (max-width: 450px) {
+    .carousel-item {
+      height: 30vh;
+    }
+    .carousel-img {
+      object-fit: fill;
+    }
+    #carouselExampleRide {
+      margin-top: 100px;
+    }
+  }
+  

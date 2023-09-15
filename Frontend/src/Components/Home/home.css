@@ -1,0 +1,23 @@
+
+.main-heading{
+    text-align: center;
+    color: #0054a6;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    margin-top: 1%;
+
+}
+.main-caption{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    
+}
+.cardImg{
+    width: 100%;
+    height: 40%;
+}
+.cardBottom{
+    text-align: center;
+}

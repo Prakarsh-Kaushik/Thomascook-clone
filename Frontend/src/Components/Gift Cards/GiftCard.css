@@ -1,0 +1,39 @@
+.giftImg {
+height: 50%;
+width: 100%;
+}
+.giftContent{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;;
+}
+.gift-head{
+    color: #0054a6;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+    margin-top: 1%;
+    margin-left: 42%;   
+    
+}
+.RedeemCard{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-left: 3px;
+margin-right: 5px;
+}
+.RedeemHead{
+    font-size: 20px;
+    color:  #0054a6;
+    font-family: sans-serif;
+
+}
+.RedeemContent{
+    color: black;
+    font-size: 15px;
+    font-family:  sans-serif;
+    font-weight: 200;
+    
+}
